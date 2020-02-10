@@ -106,6 +106,7 @@ body {
     grid-gap: 10px;
     grid-template-areas: 'line-one line-one line-one' 'line-two line-two line-two' 'line-tree line-tree line-tree';
     margin: 50px 0 0 100px;
+    overflow: auto;
 }
 
 .movie-card {
